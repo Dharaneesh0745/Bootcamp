@@ -1,0 +1,9 @@
+@import 'colors';
+
+.highlightscss {
+  color: purple;
+}
+
+.highlight {
+    color: blue;
+  }
